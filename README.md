@@ -24,4 +24,9 @@ This is a Lighthouse Labs assignment to practice SQL (PostgreSQL). The app will 
 * github: The students' github profile url
 * start_date: The students' start date of the Bootcamp
 * end_date: The students' end date of the Bootcamp
-*cohort_id: The id of the cohort that the student is enrolled in
+* cohort_id: The id of the cohort that the student is enrolled in
+
+
+## Entity Relation Diagram(ERD)
+![BootcampX](https://user-images.githubusercontent.com/95922075/218002690-8a5e7d49-7e64-4bc8-aee7-aef6ac48abd1.jpg)
+
